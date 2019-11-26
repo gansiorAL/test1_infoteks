@@ -1,4 +1,4 @@
-  ## Модуль test1_infotes
+  ## Модуль test1_infoteks
   ***
    Модуль test1_infotes получает с сайта www.list-org.com описание компании.
 Входные данные: ссылка на компанию (например https://www.list-org.com/company/4868135)
