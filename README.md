@@ -16,3 +16,5 @@
 ***
 * pip3 install selenium
 * pip3 install tabulate
+* загрузить драйвер chromedriver78_0_3904
+
